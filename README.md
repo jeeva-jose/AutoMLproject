@@ -17,7 +17,7 @@ Part of the pipeline experiment done the following activities, used existing wor
  
  ![Process Flow Diagram](/Registered%20Dataset.png "Register Dataset")
  
- -Automated ML Job completed status 
+ - Automated ML Job completed status 
  
  ![Process Flow Diagram](/Experiment_Completed.png "Experiment completed")
  
