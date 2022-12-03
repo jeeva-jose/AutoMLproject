@@ -38,7 +38,11 @@ Part of the pipeline experiment done the following activities, used existing wor
   
  ![Process Flow Diagram](/EndpointResult.png "EndpointResult")
  
- ![Process Flow Diagram](/pipleiline created.png "Swaggerrun")
+ ![Process Flow Diagram](/pipleiline%20created.png "pipleiline%20created")
+ 
+ ![Process Flow Diagram](/Pipeline%20run%20final%20model.png "Pipeline run final model")
+  
+ ![Process Flow Diagram](/published%20pipeline%20overview.png "Published new pipeline")
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
