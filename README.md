@@ -48,4 +48,10 @@ Part of the pipeline experiment done the following activities, used existing wor
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
 ## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+- The automated ML can provide the data clean-up activity summary to generate the best data for the prediction. 
+- This fine tune data can be used for further processing and save the computation.
+
+- Before passing to the actual predication, we might need to fine-tune the data
+
+- The experiment can provide a tentative duration of how much time is required to complete the end-to-end process.
+
