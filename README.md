@@ -14,7 +14,11 @@ Part of the pipeline experiment done the following activities, used existing wor
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
- ![Process Flow Diagram](/Registered%20Dataset.png "Process Flow Diagram")
+ ![Process Flow Diagram](/Registered%20Dataset.png "Register Dataset")
+ 
+ ![Process Flow Diagram](/Experiment_Completed.png "Experiment completed")
+ 
+  ![Process Flow Diagram](/Experiment_Completed.png "Experiment completed")
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
