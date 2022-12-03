@@ -9,7 +9,7 @@ Part of the pipeline experiment done the following activities, used existing wor
 
 
 ## Architectural Diagram
-![alt text]([AutoMLproject/blob/main/ML%20Architecture.png))
+ ![Process Flow Diagram](/ML%20Architecture.png "Process Flow Diagram")
 
 
 ## Key Steps
