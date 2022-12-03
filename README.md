@@ -18,7 +18,27 @@ Part of the pipeline experiment done the following activities, used existing wor
  
  ![Process Flow Diagram](/Experiment_Completed.png "Experiment completed")
  
-  ![Process Flow Diagram](/Experiment_Completed.png "Experiment completed")
+ ![Process Flow Diagram](/Experiment_Bestmodel.png "Experiment_Bestmodel")
+ 
+ ![Process Flow Diagram](/Experiment_Bestmodel_2.png "Experiment_Bestmodel_2")
+ 
+ ![Process Flow Diagram](/EnableAppInsight.png "EnableAppInsight")
+  
+ ![Process Flow Diagram](/DeployBestModel%20ACI.png "DeployBestModel")
+ 
+ ![Process Flow Diagram](/Endpoint%20deployment.png "Endpoint%20deployment")
+   
+ ![Process Flow Diagram](/Endpoint%20deployment_Finished.png "Endpoint%20deployment_Finished")
+ 
+ ![Process Flow Diagram](/AppInsightoutput.png "AppInsightoutput")
+ 
+ ![Process Flow Diagram](/Swaggerrun.png "Swaggerrun")
+  
+ ![Process Flow Diagram](/Swaggerrun_command.png "Swaggerrun_command")
+  
+ ![Process Flow Diagram](/EndpointResult.png "EndpointResult")
+ 
+ ![Process Flow Diagram](/pipleiline created.png "Swaggerrun")
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
