@@ -13,34 +13,58 @@ Part of the pipeline experiment done the following activities, used existing wor
 
 
 ## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
+ - Created dataset name and location 
+ 
  ![Process Flow Diagram](/Registered%20Dataset.png "Register Dataset")
+ 
+ -Automated ML Job completed status 
  
  ![Process Flow Diagram](/Experiment_Completed.png "Experiment completed")
  
+ - Best model summary
  ![Process Flow Diagram](/Experiment_Bestmodel.png "Experiment_Bestmodel")
  
  ![Process Flow Diagram](/Experiment_Bestmodel_2.png "Experiment_Bestmodel_2")
  
+  - Deployment step and enable applicaiton Inisght 
+ 
  ![Process Flow Diagram](/EnableAppInsight.png "EnableAppInsight")
+ 
+  - Endpoint deployment status 
   
  ![Process Flow Diagram](/DeployBestModel%20ACI.png "DeployBestModel")
  
+  - logger details
+ 
  ![Process Flow Diagram](/Endpoint%20deployment.png "Endpoint%20deployment")
+ 
+
    
  ![Process Flow Diagram](/Endpoint%20deployment_Finished.png "Endpoint%20deployment_Finished")
  
+  - Applicaiton insight logging 
+ 
  ![Process Flow Diagram](/AppInsightoutput.png "AppInsightoutput")
+ 
+  - Swagger enpoint testing
  
  ![Process Flow Diagram](/Swaggerrun.png "Swaggerrun")
   
  ![Process Flow Diagram](/Swaggerrun_command.png "Swaggerrun_command")
+ 
+   - Endpoint result
   
  ![Process Flow Diagram](/EndpointResult.png "EndpointResult")
  
+  - Pipeline running details
+ 
  ![Process Flow Diagram](/pipleiline%20created.png "pipleiline%20created")
  
+   - Pipeline run status
+ 
  ![Process Flow Diagram](/Pipeline%20run%20final%20model.png "Pipeline run final model")
+ 
+ - Jupyter Notebook run details
   
  ![Process Flow Diagram](/published%20pipeline%20overview.png "Published new pipeline")
 
