@@ -69,7 +69,9 @@ Part of the pipeline experiment done the following activities, used existing wor
  ![Process Flow Diagram](/published%20pipeline%20overview.png "Published new pipeline")
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+
+https://clipchamp.com/watch/Z6nSCAA1OiN
+
 
 ## Standout Suggestions
 - The automated ML can provide the data clean-up activity summary to generate the best data for the prediction. 
